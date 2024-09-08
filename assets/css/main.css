@@ -1031,6 +1031,7 @@ input, select, textarea {
 				border-right: none !important;
 				object-fit: contain !important;
 				width: 100% !important;
+				height: 50% !important;
 			}
 			.image.avatar{
 				display: none !important;
@@ -1293,6 +1294,7 @@ input, select, textarea {
 				border-right: none !important;
 				object-fit: contain !important;
 				width: 100% !important;
+				height: 50% !important;
 			}
 			.image.avatar{
 				display: none !important;
@@ -1553,6 +1555,7 @@ input, select, textarea {
 				border-right: none !important;
 				object-fit: contain !important;
 				width: 100% !important;
+				height: 50% !important;
 			}
 			.image.avatar{
 				display: none !important;
