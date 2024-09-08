@@ -1025,6 +1025,22 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
+			#header{
+				background-image: url("images/mushies.png") !important;
+				border-bottom: #12F904 !important;
+				border-right: none !important;
+				object-fit: contain !important;
+				width: 100% !important;
+			}
+			.image.avatar{
+				display: none !important;
+			}
+	
+			.intro-video{
+				height: 50%;
+				width: 50%;
+			}
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1269,6 +1285,23 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
+	
+
+			#header{
+				background-image: url("images/mushies.png") !important;
+				border-bottom: #12F904 !important;
+				border-right: none !important;
+				object-fit: contain !important;
+				width: 100% !important;
+			}
+			.image.avatar{
+				display: none !important;
+			}
+	
+			.intro-video{
+				height: 50%;
+				width: 50%;
+			}
 
 			.row {
 				display: flex;
@@ -1514,7 +1547,21 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 480px) {
-
+			#header{
+				background-image: url("images/mushies.png") !important;
+				border-bottom: #12F904 !important;
+				border-right: none !important;
+				object-fit: contain !important;
+				width: 100% !important;
+			}
+			.image.avatar{
+				display: none !important;
+			}
+	
+			.intro-video{
+				height: 50%;
+				width: 50%;
+			}
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1796,8 +1843,9 @@ input, select, textarea {
 	}
 
 	.intro-logo{
-		height: 250px;
-		width: 600px;
+		height: auto;
+		width: 75%;
+		padding: 0 !important;
 	}
 
 /* Form */
