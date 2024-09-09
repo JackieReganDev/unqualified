@@ -1030,7 +1030,7 @@ input, select, textarea {
 				border-bottom: #12F904 !important;
 				border-right: none !important;
 				width: 100% !important;
-				height: 100% !important;
+				height: 200% !important;
 			}
 			.image.avatar{
 				display: none !important;
@@ -1292,7 +1292,7 @@ input, select, textarea {
 				border-bottom: #12F904 !important;
 				border-right: none !important;
 				width: 100% !important;
-				height: 100% !important;
+				height: 200% !important;
 			}
 			.image.avatar{
 				display: none !important;
@@ -1552,7 +1552,7 @@ input, select, textarea {
 				border-bottom: #12F904 !important;
 				border-right: none !important;
 				width: 100% !important;
-				height: 100% !important;
+				height: 200% !important;
 			}
 			.image.avatar{
 				display: none !important;
