@@ -1026,12 +1026,12 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#header{
-				background-image: url("images/mushies.png") !important;
+				background-image: url("images/mushies.jpg") !important;
 				border-bottom: #12F904 !important;
 				border-right: none !important;
 				object-fit: contain !important;
 				width: 100% !important;
-				height: 50% !important;
+				height: 100% !important;
 			}
 			.image.avatar{
 				display: none !important;
@@ -1289,12 +1289,12 @@ input, select, textarea {
 	
 
 			#header{
-				background-image: url("images/mushies.png") !important;
+				background-image: url("images/mushies.jpg") !important;
 				border-bottom: #12F904 !important;
 				border-right: none !important;
 				object-fit: contain !important;
 				width: 100% !important;
-				height: 50% !important;
+				height: 100% !important;
 			}
 			.image.avatar{
 				display: none !important;
@@ -1550,12 +1550,12 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 			#header{
-				background-image: url("images/mushies.png") !important;
+				background-image: url("images/mushies.jpg") !important;
 				border-bottom: #12F904 !important;
 				border-right: none !important;
 				object-fit: contain !important;
 				width: 100% !important;
-				height: 50% !important;
+				height: 100% !important;
 			}
 			.image.avatar{
 				display: none !important;
