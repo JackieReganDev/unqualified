@@ -1032,9 +1032,9 @@ input, select, textarea {
 				padding-right: none !important;
 			}
 	
-			.intro-video{
-				height: 50%;
-				width: 50%;
+			.intro-yt{
+				height: 70%;
+				width: 70%;
 			}
 
 			.row {
@@ -1290,9 +1290,9 @@ input, select, textarea {
 				padding-right: none !important;
 			}
 	
-			.intro-video{
-				height: 50%;
-				width: 50%;
+			.intro-yt{
+				height: 70%;
+				width: 70%;
 			}
 
 			.row {
@@ -1546,9 +1546,9 @@ input, select, textarea {
 				padding-right: none !important;
 			}
 	
-			.intro-video{
-				height: 50%;
-				width: 50%;
+			.intro-yt{
+				height: 70%;
+				width: 70%;
 			}
 			.row {
 				display: flex;
