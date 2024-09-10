@@ -1026,14 +1026,10 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#header{
-				background-image: url("images/mushies.jpg") !important;
 				border-bottom: #12F904 !important;
 				border-right: none !important;
 				width: 100% !important;
-				height: 200% !important;
-			}
-			.image.avatar{
-				display: none !important;
+				padding-right: none !important;
 			}
 	
 			.intro-video{
@@ -1288,14 +1284,10 @@ input, select, textarea {
 	
 
 			#header{
-				background-image: url("images/mushies.jpg") !important;
 				border-bottom: #12F904 !important;
 				border-right: none !important;
 				width: 100% !important;
-				height: 200% !important;
-			}
-			.image.avatar{
-				display: none !important;
+				padding-right: none !important;
 			}
 	
 			.intro-video{
@@ -1548,14 +1540,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 			#header{
-				background-image: url("images/mushies.jpg") !important;
 				border-bottom: #12F904 !important;
 				border-right: none !important;
 				width: 100% !important;
-				height: 200% !important;
-			}
-			.image.avatar{
-				display: none !important;
+				padding-right: none !important;
 			}
 	
 			.intro-video{
